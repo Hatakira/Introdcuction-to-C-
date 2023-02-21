@@ -2,7 +2,8 @@
 
 # This is made to deposite progams made during the MIT course, "Introduction to C++" 
 
-#   - Goals of this course are included below - 
+/*
+   - Goals of this course are included below - 
 
 
 # Understand and use the basic programming constructs of C/C++
@@ -11,3 +12,4 @@
 # Use memory appropriately, including proper allocation/deallocation procedures
 # Apply object-oriented approaches to software problems in C++
 # Write small-scale C++ programs using the above skills
+*/
